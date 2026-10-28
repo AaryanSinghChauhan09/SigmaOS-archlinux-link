@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux-link"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux-link component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux-link"
+path = "src/lib.rs"
